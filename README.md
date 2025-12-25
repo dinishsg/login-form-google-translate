@@ -12,8 +12,9 @@ It focuses on clean UI design, basic form structure, and using an external JavaS
 
 ## 📌 Overview
 
-This project presents a basic login form UI that collects user details such as name, number, and email.  
-A language translation widget is included below the form to allow users to translate the page content into multiple languages.
+A simple front-end project showcasing a clean login form UI built with HTML, CSS, and JavaScript.
+It includes Google Translate integration to enable multilingual support for the page content.
+The project focuses on basic form structure, UI clarity, and using an external JavaScript library for language translation.
 
 
 ## 🛠️ Technologies Used
